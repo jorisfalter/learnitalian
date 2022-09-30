@@ -1,0 +1,36 @@
+
+/* Colorhunt - Color Palette 207391 */
+
+div{
+  padding: 7% 15%;
+  line-height: 1.5;
+  text-align: center;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.navbar {
+  background-color: #ffb0b0;
+}
+
+.navbar div {
+  padding: 2% 2%;
+}
+
+.hidden-text {
+  visibility:hidden;
+}
+
+.visible-text{
+  visibility:visble;
+}
+
+@media (max-width: 1030px) {
+  div{
+    padding: 7% 2%;
+    line-height: 1.5;
+    font-size:200%;
+  }
+}
